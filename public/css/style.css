@@ -27,6 +27,12 @@ body{
       h1{
 
         font-family: 'Oswald', sans-serif;
+        font-weight: bold;
+        border: 1px solid black;
+        width: 20%;
+        /*padding-left: 30px;*/
+        text-align: center;
+        background-color: aquamarine;
 
       }
 
